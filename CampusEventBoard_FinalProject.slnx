@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CampusEventBoard_FinalProject/CampusEventBoard_FinalProject.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
