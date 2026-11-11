@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\CampusEventBoard_FinalProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\CampusEventBoard_FinalProjectCITA255-01\\CampusEventFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0E76FD-CC8B-913A-5F86-1553A3973618}|CampusEventBoard_FinalProject\\CampusEventBoard_FinalProject.csproj|c:\\users\\isaia\\desktop\\app development cita255-01\\campuseventboard_finalprojectcita255-01\\campuseventfinal\\campuseventboard_finalproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C0E76FD-CC8B-913A-5F86-1553A3973618}|CampusEventBoard_FinalProject\\CampusEventBoard_FinalProject.csproj|solutionrelative:campuseventboard_finalproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\CampusEventBoard_FinalProjectCITA255-01\\CampusEventFinal\\CampusEventBoard_FinalProject\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CampusEventBoard_FinalProject\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\isaia\\Desktop\\App Development CITA255-01\\CampusEventBoard_FinalProjectCITA255-01\\CampusEventFinal\\CampusEventBoard_FinalProject\\MainPage.xaml",
+              "RelativeToolTip": "CampusEventBoard_FinalProject\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-11T17:14:37.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
